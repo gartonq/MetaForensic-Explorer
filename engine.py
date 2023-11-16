@@ -7,7 +7,6 @@ import tkinter as tk
 import subprocess
 import csv
 import pyexifinfo
-import hashlib
 
 
 class AppEngine:
