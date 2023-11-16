@@ -133,9 +133,7 @@ class AppEngine:
                         try:
                             file_size = os.path.getsize(file_path)
                             color = "oddrow" if toggle_color else "evenrow"
-                            self.display_treeview(
-                                {f"{file} - File Size": file_size}, color=color
-                            )
+                            self.display_treeview({f"{file}": file_size}, color=color)
 
                             row_counter += 1
 
