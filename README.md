@@ -88,6 +88,7 @@
 <ul>
     <li>This application relies on various libraries, including <code>ttkthemes</code>, <code>filetype</code>, <code>python-magic</code>, <code>pyexifinfo</code>, and standard Python libraries such as <code>tkinter</code>, <code>os</code>, and <code>csv</code>.</li>
     <li>Make sure to handle any potential errors, such as file not found or permission issues, when using the application.</li>
+    <li>If you will have any problems with magic library try <code>pip install --upgrade python-magic</code> </li>
 </ul>
 
 <p>Now you are ready to explore and analyze file metadata using the File Metadata Viewer!</p>
