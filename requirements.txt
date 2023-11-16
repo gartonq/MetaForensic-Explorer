@@ -1,7 +1,7 @@
 # requirements.txt
 
 # GUI
-tkinter
+tk
 ttkthemes
 
 # Other dependencies
