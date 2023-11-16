@@ -1,0 +1,13 @@
+# requirements.txt
+
+# GUI
+tkinter==8.6
+ttkthemes==3.2.2
+
+# Other dependencies
+filetype==1.0.7
+python-magic==0.4.22
+platformdirs==2.2.0
+file-magic==0.4.0
+subprocess.run==0.0.10
+pyexifinfo==0.2.3
