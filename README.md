@@ -1,8 +1,8 @@
-<h1>File Metadata Viewer Documentation</h1>
+<h1>MetaForensic Explorer Documentation</h1>
 
 <h2>Introduction</h2>
 
-<p>The File Metadata Viewer is a graphical user interface (GUI) application built in Python using the Tkinter library. It provides a user-friendly way to view metadata information for files in a specified directory. The program works on both Windows and Linux platform </p>
+<p>The MetaForensic Explorer is a graphical user interface (GUI) application built in Python using the Tkinter library. It provides a user-friendly way to view metadata information for files in a specified directory. The program works on both Windows and Linux platform </p>
 
 <h2>Installation</h2>
 
