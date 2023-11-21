@@ -31,7 +31,7 @@
 
 <h3>Running the Application</h3>
 
-<p>Execute the <code>main.py</code> file to launch the File Metadata Viewer GUI.</p>
+<p>Execute the <code>main.py</code> file to launch the MetaForensic Explorer GUI.</p>
 
 <pre>
     <code>python main.py</code>
@@ -81,7 +81,7 @@
 
 <h3><code>AppEngine</code></h3>
 
-<p>The <code>AppEngine</code> class contains the backend logic for the File Metadata Viewer application.</p>
+<p>The <code>AppEngine</code> class contains the backend logic for the MetaForensic Explorer application.</p>
 
 <h2>Notes</h2>
 
@@ -91,4 +91,4 @@
     <li>If you will have any problems with magic library try <code>pip install --upgrade python-magic</code> </li>
 </ul>
 
-<p>Now you are ready to explore and analyze file metadata using the File Metadata Viewer!</p>
+<p>Now you are ready to explore and analyze file metadata using the MetaForensic Explorer!</p>
